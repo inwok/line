@@ -2,11 +2,12 @@
 {
     "name": "InwO",
     "version": "1.10.66",
-    "description": "Blocks provided by InwO V231066",
+    "description": "Blocks provided by InwO V301066",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-	"axios": "*"
+	"axios": "*",
+        "core": "*"
+	
     },
     "files": [
         "README.md",
