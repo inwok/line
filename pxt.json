@@ -1,12 +1,11 @@
 
 {
-    "name": "InwO",
+    "name":  "linenotify",
     "version": "1.10.66",
-    "description": "Blocks provided by InwO V301066",
+    "description":"Line Notify Extension for Microbit",
     "license": "MIT",
     "dependencies": {
-	"axios": "*",
-        "core": "*"
+	"axios": "0.23.0"
 	
     },
     "files": [
