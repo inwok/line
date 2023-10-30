@@ -9,11 +9,9 @@
 	
     },
     "files": [
-        "README.md",
+       
         "main.ts",
-	"_locales/zh-cn/sensors-strings.json",
-        "_locales/zh-tw/sensors-strings.json",
-        "_locales/el/sensors-strings.json"
+	
     ],
     "public": true
 }
